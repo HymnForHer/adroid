@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CuoiKi1</string>
+    <string-array name="trinh_do">
+        <item>Cao đẳng</item>
+        <item>Đại học</item>
+        <item>Sau đại học</item>
+    </string-array>
+</resources>
